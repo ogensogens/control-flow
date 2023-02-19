@@ -43,3 +43,12 @@ let y = 3
 if (x > 6 || y > 2){
     console.log(x + y)
 }
+
+Bitwise Operators
+let x = 5
+let y = 3
+console.log(x | y)
+
+let x = 5
+let y = 3
+console.log(x & y)

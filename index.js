@@ -25,7 +25,7 @@ for (let i = 1 ; i < 20; i += 7) {
 
 // console.log( 2 ** 3)
 
-let positiveNumber = 63
+let positiveNumber = 30
 let power = 0 // 32 and 64 // negativeGap = 8 positiveGap= 24
 let prevpower = 0
 
@@ -44,6 +44,10 @@ for (let index = 1; index < positiveNumber; index ++) {
     }
     
 }
+
+let z = 5
+let b = 3
+console.log(z | b)
 
 // power = power + index **2
 // do {
