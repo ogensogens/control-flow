@@ -2,7 +2,7 @@ let x = 2
 let y = 3
 console.log("let sum of x and y equals", x += y)
 
-let studentGroup = "a"
+let studentGroup = "ART"
 let scienceSubjects = " Physics, Chemistry, Biology, Technical Drawing"
 let socialScienceSubjects = " Accounting, Commerce, Marketing, Geography"
 let artsSubjects = " Government, Economics, Literature, History"
