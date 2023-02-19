@@ -2,7 +2,7 @@ Arithmetic Operators: + - / * ** % ++ --
 Assignment Operators = += -= *= /= %= **=
 Comparison Operators >, <,  >=, <=, ==, ===, !=, !==
 Logical Operators && || !
-Bitwise Operators
+Bitwise Operators & | ^ ~ << >> >>>
 
 Arithmetic:
 let x = 5
